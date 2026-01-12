@@ -1,4 +1,4 @@
-%global package_version 0.7.2
+%global package_version 0.8.0
 
 %define _build_id_links none
 %define debug_package %{nil}
